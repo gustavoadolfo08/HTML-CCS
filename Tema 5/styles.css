@@ -1,0 +1,14 @@
+.imagenes img {
+    width: 300px;
+    border-style: solid;
+    border-color: blueviolet;
+    margin: 10px;
+    
+}
+
+.imagenes {
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
